@@ -1,8 +1,10 @@
 # Grokking Algorithms Practice
 
-This repository contains my implementations, notes, and tests while revisiting core algorithms and data structures using the book *Grokking Algorithms*.
+This repository documents my process of revisiting algorithms and data structures through hands-on implementations in Python, using the book *Grokking Algorithms* as a study guide.
 
-The goal is to rebuild implementation fluency, practice problem solving, and document the reasoning behind each algorithm.
+The focus is not only solving exercises, but also explaining the reasoning, tradeoffs, complexity, and tests behind each implementation.
+
+The goal is to rebuild implementation fluency, strengthen problem-solving fundamentals, and keep a clear record of how each algorithm works.
 
 ## Structure
 
