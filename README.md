@@ -23,20 +23,6 @@ The goal is to rebuild implementation fluency, strengthen problem-solving fundam
 - Greedy algorithms
 - Dynamic programming
 
-## Progress
-
-| Chapter | Topic | Status |
-| --- | --- | --- |
-| 1 | Binary search | Not started |
-| 2 | Selection sort | Not started |
-| 3 | Recursion | Not started |
-| 4 | Quicksort | Not started |
-| 5 | Hash tables | Not started |
-| 6 | Breadth-first search | Not started |
-| 7 | Dijkstra's algorithm | Not started |
-| 8 | Greedy algorithms | Not started |
-| 9 | Dynamic programming | Not started |
-
 ## Study Method
 
 For each algorithm, I plan to:
