@@ -1,3 +1,4 @@
+# O(n)
 def find_smallest_index(items):
     smallest = items[0]
     smallest_index = 0
@@ -7,6 +8,7 @@ def find_smallest_index(items):
             smallest_index = index
     return smallest_index
 
+# O(n^2)
 def selection_sort(items):
     sorted_items = []
     for _ in range(len(items)):
